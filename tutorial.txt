@@ -7,3 +7,9 @@ git log --oneline
 git diff
 
 git diff --cached
+
+
+
+git remote add origin git@github.com:geekspace/youtubetutorial.git
+
+git push origin master
